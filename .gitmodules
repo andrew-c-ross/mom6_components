@@ -1,0 +1,4 @@
+[submodule "MOM6"]
+	path = MOM6
+	url = https://github.com/andrew-c-ross/MOM6.git
+	branch = tidal_bcs
