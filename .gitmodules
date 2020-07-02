@@ -2,3 +2,27 @@
 	path = MOM6
 	url = https://github.com/andrew-c-ross/MOM6.git
 	branch = tidal_bcs
+[submodule "FMS"]
+	path = FMS
+	url = https://github.com/NOAA-GFDL/FMS.git
+[submodule "SIS2"]
+	path = SIS2
+	url = https://github.com/NOAA-GFDL/SIS2.git
+[submodule "icebergs"]
+	path = icebergs
+	url = https://github.com/NOAA-GFDL/icebergs.git
+[submodule "atmos_null"]
+	path = atmos_null
+	url = https://github.com/NOAA-GFDL/atmos_null.git
+[submodule "land_null"]
+	path = land_null
+	url = https://github.com/NOAA-GFDL/land_null.git
+[submodule "mkmf"]
+	path = mkmf
+	url = https://github.com/NOAA-GFDL/mkmf.git
+[submodule "ice_param"]
+	path = ice_param
+	url = https://github.com/NOAA-GFDL/ice_param.git
+[submodule "FMScoupler"]
+	path = FMScoupler
+	url = https://github.com/andrew-c-ross/FMScoupler.git
